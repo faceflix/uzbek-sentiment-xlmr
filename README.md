@@ -82,5 +82,5 @@ Response format: `{"label": 1, "sentiment": "ijobiy", "confidence": <float>}`.
 
 ## Files
 
-- `uz_sentiment.ipynb`: data cleaning, baseline, XLM-R training, evaluation, error analysis
+- `uzbek_sentiment.ipynb`: data cleaning, baseline, XLM-R training, evaluation, error analysis
 - `api/app.py`, `api/requirements.txt`: FastAPI inference service
